@@ -1,0 +1,24 @@
+img{
+	height:400px;
+	width:250;
+	margin-left:450px;
+	margin-top:20px;
+	border:5px solid white;
+}
+p{
+	text-align:center;
+	color:white;
+	font-family:'Libre Baskerville',serif;
+}
+h1{
+	text-align:center;
+	color:white;
+	font-family:'Libre Baskerville',serif;
+	text-transform:uppercase;
+}
+body{
+	background-color:black ;
+}
+#post-ironia{
+	margin-top:150px;
+}
